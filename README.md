@@ -1,13 +1,14 @@
 # arena-traits
 
 ## Description
-Project arena-traits
+Defines trait interfaces for arena memory allocation patterns, providing a common abstraction for arena implementations.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Standardize arena API usage
+- [ ] Support `id-arena` integration
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate established (v0.2.3)
 
 ---
 *AI assisted*
